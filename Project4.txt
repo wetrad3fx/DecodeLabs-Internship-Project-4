@@ -1,0 +1,139 @@
+Project 4 – Data Visualization with Excel
+
+Project Overview
+
+This project focuses on transforming raw sales data into meaningful visual insights using Microsoft Excel.
+
+
+Project Objectives
+
+The main objectives of this project were to:
+
+Project 4 – Data Visualization with Excel
+
+This project focuses on transforming raw sales data into meaningful visual insights using Microsoft Excel.
+
+The goal was to analyze the dataset using Pivot Tables, identify important business insights, and present the findings through clear and interactive data visualizations and dashboards**.
+
+Project Objectives
+
+Project 4 – Data Visualization with Excel
+
+Project Overview
+
+Project Overview
+Create charts (Bar, Line, Pie)
+Highlight key insights 
+Data Visualization, charts, story telling
+
+This project focuses on transforming raw sales data into meaningful visual insights using Microsoft Excel
+
+Tools 
+
+Microsoft Excel
+Pivot Tables
+Excel Charts
+Data Analysis
+Data Visualization
+Dashboard Design
+
+Dataset
+
+The dataset contains sales transaction information, including fields such as:
+
+- Order ID
+- Date
+- Product
+- Quantity
+- Total Price
+- Order Status
+- Payment Method
+- Referral Source
+- Coupon Code
+
+The dataset contains 1,200 orders.
+
+
+
+Analysis Performed
+
+1. Product Performance
+
+
+- Number of orders per product
+- Total quantity sold
+- Total revenue
+- Average order value
+
+This helped identify the products generating the highest revenue.
+
+2. Order Status Analysis
+
+Orders were analyzed according to their status, including:
+
+- Delivered
+- Shipped
+- Pending
+- Returned
+- Cancelled
+
+This provided an overview of the current state of customer orders.
+
+3. Referral Source Analysis
+
+Revenue and order volume were analyzed by referral source to determine which marketing channels generated the most business.
+
+4. Payment Method Analysis
+
+The dataset was analyzed based on payment methods to determine which methods contributed the most orders and revenue.
+
+5. Yearly & Monthly Revenue Analysis
+
+Revenue was analyzed over time to identify:
+
+- Yearly performance
+- Monthly revenue trends
+- High-performing periods
+
+
+Visualizations
+
+Several visualizations were created to communicate the findings effectively:
+
+Revenue by Product — Bar Chart
+Revenue by Year — Column Chart
+Monthly Revenue Trend — Line Chart
+Orders by Status — Pie Chart
+Revenue by Referral Source — Column Chart
+
+These visualizations make it easier to understand patterns and compare different categories.
+
+
+Key Insights
+
+Some of the major findings from the analysis include:
+
+Total Revenue:$1,264,761.96
+Total Orders:1,200
+Average Order Value: $1,053.97
+Top Product by Revenue: Chair
+Top Referral Source: Instagram
+Highest Revenue Year:2023
+Most Common Order Status: Cancelled
+Highest-Revenue Payment Method: Credit Card
+Top Coupon by Revenue: FREESHIP
+
+These findings provide useful information about product performance, customer behavior, marketing channels, and overall sales performance.
+
+
+ Project Structure
+
+
+Project-4-Data-Visualization/
+│
+├── Dataset for Data Analytics.xlsx
+├── Project_4_Data_Visualization.xlsx
+└── README.md
+
+Favour Eteng Bassey '
+Arthur 
